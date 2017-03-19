@@ -1,7 +1,7 @@
-var SPENDING_THRESHOLD = 200;
-var TAX_RATE = 0.08;
-var PHONE_COST = 99.99;
-var ACC_COST = 9.99;
+const SPENDING_THRESHOLD = 200;
+const TAX_RATE = 0.08;
+const PHONE_COST = 99.99;
+const ACC_COST = 9.99;
 
 var bank_balance = prompt("What is your bank balance?");
 var total = 0;
